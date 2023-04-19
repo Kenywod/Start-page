@@ -1,0 +1,90 @@
+        .home {
+            font-size: 20px;
+            font-family: Georgia;
+        }
+        
+        .home:hover {
+            text-decoration: none;
+        }
+        
+        .team {
+            font-size: 20px;
+            font-family: Georgia;
+        }
+        
+        .team:hover {
+            text-decoration: none;
+        }
+        
+        .login {
+            font-size: 20px;
+            font-family: Georgia;
+        }
+        
+        .login:hover {
+            text-decoration: none;
+        }
+        
+        .text {
+            height: 20px;
+            width: 140px;
+            border: 1px solid white;
+            border-radius: 10px; outline: transparent;
+        } .text:hover{outline: transparent;}
+        
+        body {
+            background-image: linear-gradient(to right, #188af0, #00d4b0 90%);
+            height: 400px;
+        }
+        
+        .new {
+            color: white;
+            font-size: 30px;
+            font-weight: 700;
+        }
+        
+        .lorem {
+            font-size: 15px;
+        }
+        
+        .img {
+            height: 350px;
+            width: 900px;
+        }
+        
+        .start {
+            background-color: transparent;
+            width: 140px;
+            border: 1px solid white;
+            border-radius: 10px; outline: transparent;
+        } 
+        
+        .vid {
+            background-color: rgb(255, 140, 140);
+            height: 157px;
+        }
+        
+        .msg {
+            background-color: sandybrown;
+            height: 157px;
+        }
+        
+        .award {
+            background-color: white;
+            height: 157px;
+        }
+        
+        .vid-img {
+            height: 40px;
+            width: 40px;
+        }
+        
+        .msg-img {
+            height: 40px;
+            width: 40px;
+        }
+        
+        .award-img {
+            height: 40px;
+            width: 40px;
+        }
